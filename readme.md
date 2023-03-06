@@ -17,7 +17,7 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='css3'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
 	<a href='https://www.w3.org/html/' target='_blank' rel='noreferrer'>
 		<img
@@ -25,7 +25,7 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='html5'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
 	<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'>
 		<img
@@ -33,7 +33,7 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='javascript'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
 	<a href='https://nodejs.org' target='_blank' rel='noreferrer'>
 		<img
@@ -41,7 +41,7 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='nodejs'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
 	<a href='https://reactjs.org/' target='_blank' rel='noreferrer'>
 		<img
@@ -49,15 +49,14 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='react'
 			width='40'
 			height='40'
-		/>{' '}
-	</a>
+		/>
 	<a href='https://expressjs.com' target='_blank' rel='noreferrer'>
 		<img
 			src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'
 			alt='express'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
 	<a href='https://www.mongodb.com/' target='_blank' rel='noreferrer'>
 		<img
@@ -65,9 +64,9 @@ This is a server project that allows users to authenticate and authorize themsel
 			alt='mongodb'
 			width='40'
 			height='40'
-		/>{' '}
+		/>
 	</a>
-</div>;
+</div>
 
 ## Link to working project 🔗
 
