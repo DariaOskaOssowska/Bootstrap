@@ -27,7 +27,7 @@ To install this project, follow these steps:
 2. Install the necessary dependencies.
 3. Run the server.
 
-## Available scripts
+## Available scripts 📜
 
 | Command                   | Description                   |
 | ------------------------- | ----------------------------- |
@@ -37,18 +37,18 @@ To install this project, follow these steps:
 
 ## Team - Group 1 💪🫂 
 
-Team Leader: 
-[Michał Jarek](https://github.com/Michal-Jarek)
+Team Leader 🥷 
+[Michał Jarek](https://github.com/Michal-Jarek) 🥷
 
-Scrum Master:
+Scrum Master 📆
 [Paweł Kłodowski](https://github.com/AngryFace97)
 
 Frontend Developers:
-[Michał Jarek](https://github.com/Michal-Jarek)
-[Marek Kalus](https://github.com/Marektg)
-[Paweł Kłodowski](https://github.com/AngryFace97)
-[Daria Ośka-Ossowska](https://github.com/DariaOskaOssowska)
-[Piotr Zdebski](https://github.com/piotrekzd)
+[Michał Jarek](https://github.com/Michal-Jarek)👨‍💻
+[Marek Kalus](https://github.com/Marektg)👨‍💻
+[Paweł Kłodowski](https://github.com/AngryFace97)👨‍💻
+[Daria Ośka-Ossowska](https://github.com/DariaOskaOssowska)👩‍💻
+[Piotr Zdebski](https://github.com/piotrekzd)👨‍💻
 
 Backend Developers:
-[Dominika Sosnowska](https://github.com/Dominika1708)
+[Dominika Sosnowska](https://github.com/Dominika1708)👩‍💻
