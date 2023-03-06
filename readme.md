@@ -38,16 +38,16 @@ To install this project, follow these steps:
 ## Team - Group 1 💪🫂 
 
 Team Leader 🥷 
-[Michał Jarek](https://github.com/Michal-Jarek) 🥷
+[Michał Jarek](https://github.com/Michal-Jarek) 
 
 Scrum Master 📆
 [Paweł Kłodowski](https://github.com/AngryFace97)
 
 Frontend Developers:
-[Michał Jarek](https://github.com/Michal-Jarek)👨‍💻
-[Marek Kalus](https://github.com/Marektg)👨‍💻
-[Paweł Kłodowski](https://github.com/AngryFace97)👨‍💻
-[Daria Ośka-Ossowska](https://github.com/DariaOskaOssowska)👩‍💻
+[Michał Jarek](https://github.com/Michal-Jarek)👨‍💻 <br>
+[Marek Kalus](https://github.com/Marektg)👨‍💻 <br>
+[Paweł Kłodowski](https://github.com/AngryFace97)👨‍💻<br>
+[Daria Ośka-Ossowska](https://github.com/DariaOskaOssowska)👩‍💻<br>
 [Piotr Zdebski](https://github.com/piotrekzd)👨‍💻
 
 Backend Developers:
