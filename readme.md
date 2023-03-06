@@ -12,9 +12,9 @@ This is a server project that allows users to authenticate and authorize themsel
 ## Technologies 🔧
 
 
-## Link to work project 🔗
+## Link to working project 🔗
 
-[Web app](https://michal-jarek.github.io/questify-team1-project/login)
+[Questify](https://michal-jarek.github.io/questify-team1-project/login)
 
 ## Link to backend project 🔗
 
