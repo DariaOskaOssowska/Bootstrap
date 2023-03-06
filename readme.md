@@ -37,10 +37,10 @@ To install this project, follow these steps:
 
 ## Team - Group 1 💪🫂 
 
-Team Leader 🥷 
+Team Leader 🥷 <br>
 [Michał Jarek](https://github.com/Michal-Jarek) 
 
-Scrum Master 📆
+Scrum Master 📆<br>
 [Paweł Kłodowski](https://github.com/AngryFace97)
 
 Frontend Developers<br>
