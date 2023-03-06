@@ -43,12 +43,12 @@ Team Leader 🥷
 Scrum Master 📆
 [Paweł Kłodowski](https://github.com/AngryFace97)
 
-Frontend Developers: <br>
+Frontend Developers<br>
 [Michał Jarek](https://github.com/Michal-Jarek)👨‍💻 <br>
 [Marek Kalus](https://github.com/Marektg)👨‍💻 <br>
 [Paweł Kłodowski](https://github.com/AngryFace97)👨‍💻<br>
 [Daria Ośka-Ossowska](https://github.com/DariaOskaOssowska)👩‍💻<br>
 [Piotr Zdebski](https://github.com/piotrekzd)👨‍💻
 
-Backend Developers:
+Backend Developers<br>
 [Dominika Sosnowska](https://github.com/Dominika1708)👩‍💻
