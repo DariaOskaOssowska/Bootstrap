@@ -1,5 +1,7 @@
 # Questify 🎉
 
+<img src="./QuestifyHomePage.png" alt="Questify - home page">
+
 ## Info 📖
 
 This is a server project that allows users to authenticate and authorize themselves, giving them the ability to manage custom sets of task cards presented as Quests and Challenges. The project uses REST API architecture, while data is stored in the MongoDB database.
