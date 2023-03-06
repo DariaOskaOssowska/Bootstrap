@@ -10,7 +10,7 @@ This is a server project that allows users to authenticate and authorize themsel
 [Questify API](https://questify-backend.goit.global/api-docs/)
 
 ## Technologies 🔧
-(https://img.shields.io/badge/JS-javascript-yellow)
+https://img.shields.io/badge/JS-javascript-yellow
 
 ## Link to working project 🔗
 
